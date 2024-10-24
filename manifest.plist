@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/vdqp0zzk6amuwn9/app.ipa</string>
+					<string>https://dl.dropboxusercontent.com/scl/fi/6suo5qz04uwdl3b6lw1gb/dcim_mobile.ipa?rlkey=yrm62g3vtiif8wavhlgb8k9i0</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/evjj8brnqqu5gf3/logo_57.png</string>
+					<string>https:/dl.dropboxusercontent.com/scl/fi/4rzb1n8kv2rc8hb4rteb7/57.png?rlkey=xz0jly3imy9kgj93k4dc95wrh</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/51rs9czxrt6uugh/logo_512.png</string>
+					<string>https://dl.dropboxusercontent.com/scl/fi/d75hyip7t85ypwojxicvn/512.png?rlkey=5fv0ct8afd7ts1x7bmmblsz8i</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.viettel.nboxs.mass</string>
+				<string>com.vtnet.dcim</string>
 				<key>bundle-version</key>
-				<string>1.0.14</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>nBOX</string>
+				<string>DCIM</string>
 			</dict>
 		</dict>
 	</array>
